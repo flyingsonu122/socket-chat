@@ -1,6 +1,6 @@
 **<p align="center" >Socket-chat</p>**
 
-# ![image](./icon.jpeg)
+![image](./icon.jpeg)
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
@@ -17,7 +17,6 @@
 
 Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
 
 <br><br>
 <p align="center"> Let's have a chat on </p> 
